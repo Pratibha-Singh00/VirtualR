@@ -1,5 +1,14 @@
 # React + Vite
 
+# 🎓 My Project Title
+
+A short description of your project.
+
+## 🚀 Live Demo
+
+Check out the live project here: [Live Site]([https://your-project.vercel.app](https://virtual-r-opal-eta.vercel.app/))
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
