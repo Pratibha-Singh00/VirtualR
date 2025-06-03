@@ -1,11 +1,54 @@
 # 🎓 VirtualR – A Smart Session Scheduling App
 
-> 🚀 VirtualR is an intelligent and responsive session scheduling platform built with **React + Vite**.  
+> 🚀 **VirtualR** is an intelligent and responsive session scheduling platform built with **React + Vite**.  
 > Perfect for students, tutors, and institutions to schedule, manage, and track learning sessions with ease.  
 > Clean UI, smooth UX, and full control over session intervals, preferred days, and total sessions. 💡📅
 
 ---
 
+## ✨ Project Overview
+
+🔧 In this project, I built a **landing page** for a **Virtual Reality software company** using **React** and **Tailwind CSS**.  
+☁️ The project is fully deployed on **Vercel** and is 100% **responsive** across all screen sizes.
+
+Here’s a breakdown of the sections I developed:
+
+- 🔝 **Sticky Navbar** – Beautiful blur backdrop with a responsive **drawer** on smaller screens
+- 🎯 **Hero Section** – Includes gradient text and an autoplay embedded video
+- 🌟 **Feature Section** – Lists all product features with clean layout
+- 🔄 **Workflow Section** – Contains images and checklist-style highlights
+- 💰 **Pricing Section** – Three interactive pricing cards: **Free**, **Pro**, and **Enterprise**
+- 🗣️ **Testimonial Section** – Showcases customer reviews in an appealing layout
+- 🔻 **Footer** – Includes all essential links and branding elements
+
+🧪 Built with **clean, reusable components**, modern animations, and fully mobile-friendly layout!
+
+---
+
+## 🖼️ Front Page Preview
+
+![VirtualR Front Page](https://github.com/Pratibha-Singh00/VirtualR/raw/main/Screenshot%202025-06-03%20093238.png)
+
+---
+
+## 🔗 Quick Access
+
+<table>
+  <tr>
+    <td>
+      <a href="https://virtual-r-opal-eta.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/EwzWg-Joxq0?si=WgXFplU8JpcV-opp" target="_blank">
+        <img src="https://img.shields.io/badge/🎬%20Video%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 # 🎓 VirtualR – A Smart Session Scheduling App
 
 > VirtualR is a smart, React-based session scheduling platform designed for students and tutors.  
