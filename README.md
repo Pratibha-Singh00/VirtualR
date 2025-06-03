@@ -63,14 +63,6 @@ Here’s a breakdown of the sections I developed:
 
 ---
 
-<table>
-  <tr>
-    <td><a href="https://virtual-r-opal-eta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-blue?style=for-the-badge" alt="Live Demo" /></a></td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Description                          |
