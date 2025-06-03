@@ -60,6 +60,14 @@ Here’s a breakdown of the sections I developed:
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://virtual-r-opal-eta.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    <td>
 
 ---
 
