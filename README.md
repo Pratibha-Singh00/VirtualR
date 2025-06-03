@@ -58,16 +58,15 @@ Here’s a breakdown of the sections I developed:
         <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td>
-      <a href="https://virtual-r-opal-eta.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      <a href="https://youtu.be/EwzWg-Joxq0?si=q8gAfkdbRnDyjBtt" target="_blank">
+        <img src="https://img.shields.io/badge/🎬%20UI%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo" />
       </a>
     </td>
-    <td>
+  </tr>
+</table>
+
+
 
 ---
 
