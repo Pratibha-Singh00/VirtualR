@@ -24,7 +24,6 @@
 <table>
   <tr>
     <td><a href="https://virtual-r-opal-eta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-blue?style=for-the-badge" alt="Live Demo" /></a></td>
-    <td><a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank"><img src="https://img.shields.io/badge/🎬%20Watch%20Video-red?style=for-the-badge" alt="Demo Video" /></a></td>
   </tr>
 </table>
 
@@ -48,11 +47,6 @@
 
 ---
 
-## 📂 Folder Structure (Optional)
-
-You can add a code overview here if you want.
-
----
 
 > 🎉 Hope you enjoy exploring this project! Contributions, stars ⭐, and feedback are welcome.
 elds.io/badge/🎬%20Video%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo" />
