@@ -1,6 +1,6 @@
 # 🎓 VirtualR – VR Software Landing Page
 
-> 🧠 **VirtualR** is a modern, responsive landing page built for a **Virtual Reality Software Company**, built with **React + Vite**and **Tailwind CSS**, and is deployed on **Vercel** cloud platform for fast global access.💡📅.The website is fully responsive **responsive** across all screen sizes.
+> 🧠 **VirtualR** is a modern, responsive landing page built for a **Virtual Reality Software Company**, built with **React + Vite**and **Tailwind CSS**, and is deployed on **Vercel** cloud platform for fast global access.💡📅.The website is fully **responsive** across all screen sizes.
 
 ## ✨ Project Overview
 Let’s walk through all the sections I built in this project:
